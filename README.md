@@ -12,3 +12,10 @@ Logistic Regression
 **2. Prediction using Decision Tree  Algorithm:**
 
 In this task, I have classified the Iris dataset with the help of Decision Tree Classifier algorithm and visulize it. Also, I used Decision Tree Classifier algorithm to identify the class of a Iris plant based on its features.
+
+
+
+**3.Prediction using Supervised ML :**
+
+In this task, I have Predicted percentage of an student based on the no. of study hours. This is a simple linear regression task as it involves just 2 variables. I used Linear Regression to identify the scores of student based on hours of study.
+
