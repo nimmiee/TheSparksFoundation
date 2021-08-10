@@ -19,3 +19,9 @@ In this task, I have classified the Iris dataset with the help of Decision Tree 
 
 In this task, I have Predicted percentage of an student based on the no. of study hours. This is a simple linear regression task as it involves just 2 variables. I used Linear Regression to identify the scores of student based on hours of study.
 
+# Computer Vision & Internet of Things Tasks
+
+
+**4. Optical Character Recognition (ORC):**
+
+In this task, I have Created Character detector which extracts printed or handwritten text from an image or video. I used easyocr and cv2 libraries here. 
