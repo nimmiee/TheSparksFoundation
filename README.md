@@ -25,3 +25,10 @@ In this task, I have Predicted percentage of an student based on the no. of stud
 **4. Optical Character Recognition (ORC):**
 
 In this task, I have Created Character detector which extracts printed or handwritten text from an image or video. I used easyocr and cv2 libraries here. 
+
+
+**5. Color Identification in Images (ORC):**
+
+In this task, I have Created image color detector which identifies all the colors in an image or video with the help of cv2.
+
+
